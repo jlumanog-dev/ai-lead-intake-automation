@@ -1,1 +1,1 @@
-# ai-lead-to-close-automation
+# ai-lead-intake-automation
