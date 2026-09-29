@@ -1,0 +1,18 @@
+{
+  "name": "Lead Intake Workflow",
+  "nodes": [],
+  "pinData": {},
+  "connections": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "b21a3bb1-d644-44d7-9c85-d1d53f93818b",
+  "meta": {
+    "instanceId": "bd532ff1eff4f847b1006977274c783c9443b05882aafd4269ec5ec9ffb76a97"
+  },
+  "nodeGroups": [],
+  "id": "QK7hBM4bXKtARcul",
+  "tags": []
+}
